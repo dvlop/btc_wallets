@@ -1,2 +1,2 @@
-# btc_wallets
+# BTC Wallets
 wallets found on the internet
